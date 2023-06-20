@@ -9,7 +9,6 @@ import static org.hamcrest.Matchers.equalTo;
 public class PostmanEchoTest {
 
     @Test
-
     void shouldReturnData() {
 
         given()
